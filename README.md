@@ -40,31 +40,31 @@ Easily navigate between different screens using the bottom navigation menu
 ### HomePage
 
 
-<img src="https://user-images.githubusercontent.com/96656832/225403289-c49110a1-5826-448f-99bc-96eed7048868.jpeg" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/96656832/225403289-c49110a1-5826-448f-99bc-96eed7048868.jpeg" width="250" height="500">
 
 ### DragDown
 
-<img src="https://user-images.githubusercontent.com/96656832/225403385-d20b8991-5f46-4f26-b19b-781b70c8817f.jpeg" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/96656832/225403385-d20b8991-5f46-4f26-b19b-781b70c8817f.jpeg" width="250" height="500">
 
 ### Genre Detail Screen(Album)
 
-<img src="https://user-images.githubusercontent.com/96656832/225403417-943774d6-6ff2-4faa-8315-58a7c8b3e2f5.jpeg" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/96656832/225403417-943774d6-6ff2-4faa-8315-58a7c8b3e2f5.jpeg" width="250" height="500">
 
 ### Genre Detail Screen(Artist)
 
-<img src="https://user-images.githubusercontent.com/96656832/225403530-884529c2-29da-404e-b41a-fcd18f96f47d.jpeg" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/96656832/225403530-884529c2-29da-404e-b41a-fcd18f96f47d.jpeg" width="250" height="500">
 
 ### Genre Detail Screen(Tracks)
 
-<img src="https://user-images.githubusercontent.com/96656832/225403555-7be49c06-3f07-4413-841e-a675d4022992.jpeg" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/96656832/225403555-7be49c06-3f07-4413-841e-a675d4022992.jpeg" width="250" height="500">
 
 ### Album Details
 
-<img src="https://user-images.githubusercontent.com/96656832/225403574-767f7275-b8bc-4e17-b3ba-eb0530fcd420.jpeg" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/96656832/225403574-767f7275-b8bc-4e17-b3ba-eb0530fcd420.jpeg" width="250" height="500">
 
 ### Artist Details
 
-<img src="https://user-images.githubusercontent.com/96656832/225403593-82c1bf46-e291-4678-8b42-d4175bf49b64.jpeg" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/96656832/225403593-82c1bf46-e291-4678-8b42-d4175bf49b64.jpeg" width="250" height="500">
 
 
 
